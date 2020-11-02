@@ -1,6 +1,9 @@
 # drawing_lots_WELL1024a
 WELL1024a 알고리즘 기반 커맨드라인 스크립트
 
+해당 스크립트는 batch 기반으로 UTF-8을 사용하며, chcp 65001을 지원하지 않는 windows 운영체제에서는 원활히 작동되지 않을 수 있습니다.
+Copyright of WELL1024a Algorithm : Francois Panneton and Pierre L'Ecuyer, University of Montreal Makoto Matsumoto, Hiroshima University
+
 Q-stone MIT License (MIT)
 
 Copyright (c) 2020 kimgyuseok.
